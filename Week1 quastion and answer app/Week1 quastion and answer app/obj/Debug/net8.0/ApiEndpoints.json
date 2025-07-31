@@ -1,0 +1,48 @@
+[
+  {
+    "ContainingType": "Week1_question_and_answer_app.Controllers.QuizController",
+    "Method": "CheckAnswer",
+    "RelativePath": "api/Quiz/answer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Week1_question_and_answer_app.Controllers.QuizController\u002BAnswerRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Week1_question_and_answer_app.Controllers.QuizController",
+    "Method": "GetRandom",
+    "RelativePath": "api/Quiz/question/random",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Week1_question_and_answer_app.Controllers.QuizController",
+    "Method": "GetAll",
+    "RelativePath": "api/Quiz/questions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Week1_question_and_answer_app.Controllers.QuizController",
+    "Method": "GetScore",
+    "RelativePath": "api/Quiz/score",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

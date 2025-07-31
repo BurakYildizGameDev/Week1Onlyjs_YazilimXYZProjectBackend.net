@@ -1,0 +1,38 @@
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\bin\Debug\net8.0\appsettings.Development.json
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\bin\Debug\net8.0\appsettings.json
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\bin\Debug\net8.0\Data\questions.json
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\bin\Debug\net8.0\Week1 quastion and answer app.staticwebassets.endpoints.json
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\bin\Debug\net8.0\Week1 quastion and answer app.exe
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\bin\Debug\net8.0\Week1 quastion and answer app.deps.json
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\bin\Debug\net8.0\Week1 quastion and answer app.runtimeconfig.json
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\bin\Debug\net8.0\Week1 quastion and answer app.dll
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\bin\Debug\net8.0\Week1 quastion and answer app.pdb
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\obj\Debug\net8.0\Week1 quastion and answer app.csproj.AssemblyReference.cache
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\obj\Debug\net8.0\Week1 quastion and answer app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\obj\Debug\net8.0\Week1 quastion and answer app.AssemblyInfoInputs.cache
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\obj\Debug\net8.0\Week1 quastion and answer app.AssemblyInfo.cs
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\obj\Debug\net8.0\Week1 quastion and answer app.csproj.CoreCompileInputs.cache
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\obj\Debug\net8.0\Week1 quastion and answer app.MvcApplicationPartsAssemblyInfo.cs
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\obj\Debug\net8.0\Week1 quastion and answer app.MvcApplicationPartsAssemblyInfo.cache
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\obj\Debug\net8.0\scopedcss\bundle\Week1 quastion and answer app.styles.css
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\obj\Debug\net8.0\staticwebassets.build.json
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\obj\Debug\net8.0\staticwebassets.development.json
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\obj\Debug\net8.0\staticwebassets\msbuild.Week1 quastion and answer app.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\obj\Debug\net8.0\staticwebassets\msbuild.Week1 quastion and answer app.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\obj\Debug\net8.0\staticwebassets\msbuild.build.Week1 quastion and answer app.props
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Week1 quastion and answer app.props
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Week1 quastion and answer app.props
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\obj\Debug\net8.0\Week1 qu.4D2038F2.Up2Date
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\obj\Debug\net8.0\Week1 quastion and answer app.dll
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\obj\Debug\net8.0\refint\Week1 quastion and answer app.dll
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\obj\Debug\net8.0\Week1 quastion and answer app.pdb
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\obj\Debug\net8.0\Week1 quastion and answer app.genruntimeconfig.cache
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\obj\Debug\net8.0\ref\Week1 quastion and answer app.dll
+D:\Staj Projeleri\Week1 quastion and answer app\Week1 quastion and answer app\bin\Debug\net8.0\Week1 quastion and answer app.staticwebassets.runtime.json

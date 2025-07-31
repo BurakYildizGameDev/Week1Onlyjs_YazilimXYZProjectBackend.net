@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Staj Projeleri\\Week1 quastion and answer app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2B7C9D-1758-4AD2-8981-78EF71326AEE}|Week1 quastion and answer app\\Week1 quastion and answer app.csproj|d:\\staj projeleri\\week1 quastion and answer app\\week1 quastion and answer app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2B7C9D-1758-4AD2-8981-78EF71326AEE}|Week1 quastion and answer app\\Week1 quastion and answer app.csproj|solutionrelative:week1 quastion and answer app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2B7C9D-1758-4AD2-8981-78EF71326AEE}|Week1 quastion and answer app\\Week1 quastion and answer app.csproj|d:\\staj projeleri\\week1 quastion and answer app\\week1 quastion and answer app\\services\\questionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2B7C9D-1758-4AD2-8981-78EF71326AEE}|Week1 quastion and answer app\\Week1 quastion and answer app.csproj|solutionrelative:week1 quastion and answer app\\services\\questionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2B7C9D-1758-4AD2-8981-78EF71326AEE}|Week1 quastion and answer app\\Week1 quastion and answer app.csproj|d:\\staj projeleri\\week1 quastion and answer app\\week1 quastion and answer app\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2B7C9D-1758-4AD2-8981-78EF71326AEE}|Week1 quastion and answer app\\Week1 quastion and answer app.csproj|solutionrelative:week1 quastion and answer app\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2B7C9D-1758-4AD2-8981-78EF71326AEE}|Week1 quastion and answer app\\Week1 quastion and answer app.csproj|d:\\staj projeleri\\week1 quastion and answer app\\week1 quastion and answer app\\data\\questions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD2B7C9D-1758-4AD2-8981-78EF71326AEE}|Week1 quastion and answer app\\Week1 quastion and answer app.csproj|solutionrelative:week1 quastion and answer app\\data\\questions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2B7C9D-1758-4AD2-8981-78EF71326AEE}|Week1 quastion and answer app\\Week1 quastion and answer app.csproj|d:\\staj projeleri\\week1 quastion and answer app\\week1 quastion and answer app\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2B7C9D-1758-4AD2-8981-78EF71326AEE}|Week1 quastion and answer app\\Week1 quastion and answer app.csproj|solutionrelative:week1 quastion and answer app\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2B7C9D-1758-4AD2-8981-78EF71326AEE}|Week1 quastion and answer app\\Week1 quastion and answer app.csproj|d:\\staj projeleri\\week1 quastion and answer app\\week1 quastion and answer app\\dtos\\answerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2B7C9D-1758-4AD2-8981-78EF71326AEE}|Week1 quastion and answer app\\Week1 quastion and answer app.csproj|solutionrelative:week1 quastion and answer app\\dtos\\answerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2B7C9D-1758-4AD2-8981-78EF71326AEE}|Week1 quastion and answer app\\Week1 quastion and answer app.csproj|d:\\staj projeleri\\week1 quastion and answer app\\week1 quastion and answer app\\models\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2B7C9D-1758-4AD2-8981-78EF71326AEE}|Week1 quastion and answer app\\Week1 quastion and answer app.csproj|solutionrelative:week1 quastion and answer app\\models\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2B7C9D-1758-4AD2-8981-78EF71326AEE}|Week1 quastion and answer app\\Week1 quastion and answer app.csproj|d:\\staj projeleri\\week1 quastion and answer app\\week1 quastion and answer app\\services\\iquestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2B7C9D-1758-4AD2-8981-78EF71326AEE}|Week1 quastion and answer app\\Week1 quastion and answer app.csproj|solutionrelative:week1 quastion and answer app\\services\\iquestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IQuestionService.cs",
+              "DocumentMoniker": "D:\\Staj Projeleri\\Week1 quastion and answer app\\Week1 quastion and answer app\\Services\\IQuestionService.cs",
+              "RelativeDocumentMoniker": "Week1 quastion and answer app\\Services\\IQuestionService.cs",
+              "ToolTip": "D:\\Staj Projeleri\\Week1 quastion and answer app\\Week1 quastion and answer app\\Services\\IQuestionService.cs",
+              "RelativeToolTip": "Week1 quastion and answer app\\Services\\IQuestionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T11:58:57.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "D:\\Staj Projeleri\\Week1 quastion and answer app\\Week1 quastion and answer app\\Models\\UserSession.cs",
+              "RelativeDocumentMoniker": "Week1 quastion and answer app\\Models\\UserSession.cs",
+              "ToolTip": "D:\\Staj Projeleri\\Week1 quastion and answer app\\Week1 quastion and answer app\\Models\\UserSession.cs",
+              "RelativeToolTip": "Week1 quastion and answer app\\Models\\UserSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T11:58:17.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnswerResponseDto.cs",
+              "DocumentMoniker": "D:\\Staj Projeleri\\Week1 quastion and answer app\\Week1 quastion and answer app\\DTOS\\AnswerResponseDto.cs",
+              "RelativeDocumentMoniker": "Week1 quastion and answer app\\DTOS\\AnswerResponseDto.cs",
+              "ToolTip": "D:\\Staj Projeleri\\Week1 quastion and answer app\\Week1 quastion and answer app\\DTOS\\AnswerResponseDto.cs",
+              "RelativeToolTip": "Week1 quastion and answer app\\DTOS\\AnswerResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T11:57:41.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Staj Projeleri\\Week1 quastion and answer app\\Week1 quastion and answer app\\Program.cs",
+              "RelativeDocumentMoniker": "Week1 quastion and answer app\\Program.cs",
+              "ToolTip": "D:\\Staj Projeleri\\Week1 quastion and answer app\\Week1 quastion and answer app\\Program.cs",
+              "RelativeToolTip": "Week1 quastion and answer app\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T18:48:54.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuizController.cs",
+              "DocumentMoniker": "D:\\Staj Projeleri\\Week1 quastion and answer app\\Week1 quastion and answer app\\Controllers\\QuizController.cs",
+              "RelativeDocumentMoniker": "Week1 quastion and answer app\\Controllers\\QuizController.cs",
+              "ToolTip": "D:\\Staj Projeleri\\Week1 quastion and answer app\\Week1 quastion and answer app\\Controllers\\QuizController.cs",
+              "RelativeToolTip": "Week1 quastion and answer app\\Controllers\\QuizController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T18:31:17.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestionService.cs",
+              "DocumentMoniker": "D:\\Staj Projeleri\\Week1 quastion and answer app\\Week1 quastion and answer app\\Services\\QuestionService.cs",
+              "RelativeDocumentMoniker": "Week1 quastion and answer app\\Services\\QuestionService.cs",
+              "ToolTip": "D:\\Staj Projeleri\\Week1 quastion and answer app\\Week1 quastion and answer app\\Services\\QuestionService.cs",
+              "RelativeToolTip": "Week1 quastion and answer app\\Services\\QuestionService.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAswFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T18:03:04.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "questions.json",
+              "DocumentMoniker": "D:\\Staj Projeleri\\Week1 quastion and answer app\\Week1 quastion and answer app\\Data\\questions.json",
+              "RelativeDocumentMoniker": "Week1 quastion and answer app\\Data\\questions.json",
+              "ToolTip": "D:\\Staj Projeleri\\Week1 quastion and answer app\\Week1 quastion and answer app\\Data\\questions.json",
+              "RelativeToolTip": "Week1 quastion and answer app\\Data\\questions.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-28T17:53:09.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\Staj Projeleri\\Week1 quastion and answer app\\Week1 quastion and answer app\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "Week1 quastion and answer app\\Models\\Question.cs",
+              "ToolTip": "D:\\Staj Projeleri\\Week1 quastion and answer app\\Week1 quastion and answer app\\Models\\Question.cs",
+              "RelativeToolTip": "Week1 quastion and answer app\\Models\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T17:49:05.14Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

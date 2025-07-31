@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Week1 quastion and answer app/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XX0MAUrGdUo4d8tkfPbcRNyINmAUvLu6g34S3gMFNwM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1649"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022XX0MAUrGdUo4d8tkfPbcRNyINmAUvLu6g34S3gMFNwM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 29 Jul 2025 22:58:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Week1 quastion and answer app/index.xb3qqkwnlb.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xb3qqkwnlb"},{"Name":"integrity","Value":"sha256-XX0MAUrGdUo4d8tkfPbcRNyINmAUvLu6g34S3gMFNwM="},{"Name":"label","Value":"_content/Week1 quastion and answer app/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1649"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022XX0MAUrGdUo4d8tkfPbcRNyINmAUvLu6g34S3gMFNwM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 29 Jul 2025 22:58:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

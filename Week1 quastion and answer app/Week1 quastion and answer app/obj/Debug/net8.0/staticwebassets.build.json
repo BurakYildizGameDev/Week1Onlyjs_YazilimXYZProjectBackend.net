@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "bknjTHJUDNU+fZfav6sWE7nXEQ73aMxkUnzZwyJoHvo=",
+  "Source": "Week1 quastion and answer app",
+  "BasePath": "_content/Week1 quastion and answer app",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Week1 quastion and answer app\\wwwroot",
+      "Source": "Week1 quastion and answer app",
+      "ContentRoot": "D:\\Staj Projeleri\\Week1 quastion and answer app\\Week1 quastion and answer app\\wwwroot\\",
+      "BasePath": "_content/Week1 quastion and answer app",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
